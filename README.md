@@ -16,11 +16,11 @@
 
 ## Дмитрий Васильев
 
-## Даниил Захаров
+## [Даниил Захаров](https://github.com/Logo95/testing_lessons_TGBot)
 
 ## Алексей Любимов
 
-## Алексей Фитисов
+## [Алексей Фитисов](https://github.com/Aleksei-web-bit/fitisov_testing)
 
 ## Андрей Кузькин
 
