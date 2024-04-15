@@ -3,7 +3,7 @@
 # Содержание
 * [Главная](https://github.com/WrapAndKit/testing_itmo/blob/main/README.md)
 * [Вспомогательный материал]
-* [Исходники]
+* [Исходники](https://github.com/WrapAndKit/testing_itmo/blob/main/src)
 * [Вопросы к зачету]
 # Зачет
 Для успешного освоения курса необходимо:
