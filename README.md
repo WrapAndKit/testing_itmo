@@ -3,7 +3,7 @@
 # Содержание
 * [Главная](https://github.com/WrapAndKit/testing_itmo/blob/main/README.md)
 * [Вспомогательный материал]
-* [Исходники]
+* [Исходники](https://github.com/WrapAndKit/testing_itmo/blob/main/src)
 * [Вопросы к зачету]
 # Зачет
 Для успешного освоения курса необходимо:
@@ -18,7 +18,7 @@
 
 ## [Даниил Захаров](https://github.com/D-Zaharov/itmo_testing)
 
-## Алексей Любимов
+## [Алексей Любимов](https://github.com/alexeyalyubimov/testing_itmo)
 
 ## [Алексей Фитисов](https://github.com/Aleksei-web-bit/fitisov_testing)
 
