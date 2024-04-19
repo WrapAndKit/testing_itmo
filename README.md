@@ -2,7 +2,7 @@
 
 # Содержание
 * [Главная](https://github.com/WrapAndKit/testing_itmo/blob/main/README.md)
-* [Вспомогательный материал]
+* [Вспомогательный материал](https://github.com/WrapAndKit/testing_itmo/blob/main/support.md)
 * [Исходники](https://github.com/WrapAndKit/testing_itmo/blob/main/src)
 * [Вопросы к зачету]
 # Зачет
