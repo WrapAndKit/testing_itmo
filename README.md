@@ -18,7 +18,7 @@
 
 ## [Даниил Захаров](https://github.com/D-Zaharov/itmo_testing)
 
-## Алексей Любимов
+## [Алексей Любимов](https://github.com/alexeyalyubimov/testing_itmo)
 
 ## [Алексей Фитисов](https://github.com/Aleksei-web-bit/fitisov_testing)
 
