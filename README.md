@@ -4,12 +4,12 @@
 * [Главная](https://github.com/WrapAndKit/testing_itmo/blob/main/README.md)
 * [Вспомогательный материал](https://github.com/WrapAndKit/testing_itmo/blob/main/support.md)
 * [Исходники](https://github.com/WrapAndKit/testing_itmo/blob/main/src)
-* [Вопросы к зачету]
+
 # Зачет
 Для успешного освоения курса необходимо:
 
 * Выполнение практических заданий (сдаются ссылкой на github)
-* Сдача устоного опроса
+* Защита практического задания
 
 # Результат
 Флагами отмечены задания, которые приняты полностью
